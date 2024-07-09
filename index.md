@@ -12,4 +12,8 @@ Se inicializó un repositorio Git vacío en /Users/skills/Projects/recipe-reposi
 var myVar = "¡Hola, mundo!";
 ```
 
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
 Esto es una prueba de markdown
